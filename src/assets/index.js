@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import film from "./film.png";
+import lms from "./lms.png"
+import fullstack from "./fullstack.png"
+import ios from "./ios.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -14,6 +18,8 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import nep from "./nep.png";
+import nsdc from "./nsdc.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
@@ -42,10 +48,16 @@ export {
   css,
   docker,
   figma,
+  film,
+  fullstack,
   git,
+  ios,
+  lms,
   html,
   javascript,
   mongodb,
+  nep,
+  nsdc,
   nodejs,
   reactjs,
   redux,

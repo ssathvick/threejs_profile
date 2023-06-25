@@ -2,15 +2,21 @@ import {
     mobile,
     backend,
     creator,
+    film,
+    fullstack,
     web,
     javascript,
     typescript,
     html,
+    ios,
+    lms,
     css,
     reactjs,
     redux,
     tailwind,
     nodejs,
+    nep,
+    nsdc,
     mongodb,
     git,
     figma,
@@ -42,20 +48,44 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Photogrammetry",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Film Production",
+      icon: film,
+    },
+    {
+      title: "Learning Management System",
+      icon: lms,
+    },
+    {
+      title: "Animation & Motion Graphics",
+      icon: creator,
+    },
+    {
+      title: "3D Modelling & Simulations",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Augmented & Virtual Reality",
       icon: backend,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Full Stack Web Apps",
+      icon: fullstack,
+    },
+    {
+      title: "IOS & Android Apps",
+      icon: ios,
+    },
+    {
+      title: "NEP 2020 Solution Provider",
+      icon: nep,
+    },
+    {
+      title: "NSDC Training Partners",
+      icon: nsdc,
     },
   ];
   
